@@ -20,7 +20,6 @@ import argparse
 from collections import defaultdict
 from tqdm import tqdm
 import pandas as pd
-import os
 # =============================================================================
 
 
@@ -86,6 +85,7 @@ for beam_width in range(3, 11):
 # Note that the 'learner' argument should be in array form, i.e. '[learner]'.
 cv = CrossValidation(k=10, random_state=44)
 results = {}
+print('Training')
 for name, learner in tqdm(learners.items()):
 	results[name] = cv(data=wineData, learners=[learner])
 
@@ -98,7 +98,8 @@ for name, learner in tqdm(learners.items()):
 
 # # ADD COMMANDS TO EVALUATE YOUR MODEL HERE (AND PRINT ON CONSOLE)
 scores = defaultdict(dict)
-for name, res in results.items():
+print('Testing')
+for name, res in tqdm(results.items()):
 	scores[name]['acc'] = CA(results=res)[0]
 	scores[name]['prec'] = Precision(results=res, average='macro')[0]
 	scores[name]['rec'] = Recall(results=res, average='macro')[0]
