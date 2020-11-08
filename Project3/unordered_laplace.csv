@@ -1,0 +1,2473 @@
+,acc,prec,rec,f1,rules
+unordered_laplace_3_7_2,0.898876404494382,0.9124796631256579,0.892106641733641,0.8994968701536005,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_7_3,0.8539325842696629,0.8656580958619937,0.8555028381210047,0.8592044239588038,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_7_4,0.8539325842696629,0.8656580958619937,0.8555028381210047,0.8592044239588038,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_7_5,0.8539325842696629,0.8656580958619937,0.8555028381210047,0.8592044239588038,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_8_2,0.8539325842696629,0.8626135569531796,0.8468442481631787,0.8525811877125699,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_8_3,0.8707865168539326,0.8838699900156897,0.8628385188721784,0.8704704869084915,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_8_4,0.8707865168539326,0.8838699900156897,0.8628385188721784,0.8704704869084915,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_8_5,0.8707865168539326,0.8838699900156897,0.8628385188721784,0.8704704869084915,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_9_2,0.8595505617977528,0.8873564816961044,0.84479025755285,0.8572441555238447,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_9_3,0.8707865168539326,0.8940327219396987,0.8560896925810986,0.8673507172452174,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_9_4,0.8707865168539326,0.8940327219396987,0.8560896925810986,0.8673507172452174,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_9_5,0.8707865168539326,0.8940327219396987,0.8560896925810986,0.8673507172452174,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_10_2,0.8258426966292135,0.8509230233368165,0.8072829633166229,0.8174714799187374,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_10_3,0.8033707865168539,0.8259855499438832,0.7894585024269913,0.7973343476124818,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_10_4,0.8146067415730337,0.8339726377701062,0.8007579374552399,0.8069135802469135,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_10_5,0.8146067415730337,0.8339726377701062,0.8007579374552399,0.8069135802469135,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_11_2,0.8426966292134831,0.881188703769349,0.8213674703588764,0.8344492232708461,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_11_3,0.8202247191011236,0.8579189805846141,0.7980889101084853,0.8087407690348868,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Total phenols>=1.6 AND Hue>=0.75 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_11_4,0.8370786516853933,0.8686583249534333,0.8150380626508581,0.8232254675817378,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Total phenols>=1.6 AND Hue>=0.75 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_11_5,0.8370786516853933,0.8686583249534333,0.8150380626508581,0.8232254675817378,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Total phenols>=1.6 AND Hue>=0.75 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_12_2,0.8539325842696629,0.8876071206875721,0.832666905387125,0.8441901979876664,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.85 AND Color intensity<=4.92 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_12_3,0.8258426966292135,0.8589169000933707,0.8069431182196758,0.816449488580636,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_12_4,0.8258426966292135,0.8589169000933707,0.8069431182196758,0.816449488580636,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_12_5,0.8258426966292135,0.8589169000933707,0.8069431182196758,0.816449488580636,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_13_2,0.848314606741573,0.8908801274392673,0.8260623060396276,0.8404370226070358,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_13_3,0.8258426966292135,0.8759081196581197,0.8021687090528102,0.8176066439539493,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_13_4,0.8258426966292135,0.8759081196581197,0.8021687090528102,0.8176066439539493,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_13_5,0.8258426966292135,0.8759081196581197,0.8021687090528102,0.8176066439539493,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_14_2,0.8033707865168539,0.869143997148663,0.7808645659266332,0.7999714967922209,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_14_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_14_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_14_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_15_2,0.797752808988764,0.8665893597582403,0.7752148484125089,0.7947015363602764,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_15_3,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_15_4,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 AND Malic Acid>=1.07 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_15_5,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 AND Malic Acid>=1.07 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_16_2,0.797752808988764,0.8665893597582403,0.7752148484125089,0.7947015363602764,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_16_3,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_16_4,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_16_5,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_17_2,0.797752808988764,0.8665893597582403,0.7752148484125089,0.7947015363602764,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_17_3,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_17_4,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_17_5,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_18_2,0.797752808988764,0.8665893597582403,0.7752148484125089,0.7947015363602764,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_18_3,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_18_4,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_18_5,0.797752808988764,0.8620017320881025,0.7739201214821888,0.7920346680767918,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_19_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_19_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_19_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_19_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_20_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND Color intensity<=4.92 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_20_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Flavanoids>=1.41 AND Magnesium<=103.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_20_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Flavanoids>=1.41 AND Magnesium<=103.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_3_20_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Flavanoids>=1.41 AND Magnesium<=103.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_7_2,0.8932584269662921,0.9060870331219167,0.8874118060528898,0.8944176539157369,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_7_3,0.9101123595505618,0.9202254790641602,0.9034060767618896,0.9098348994001167,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_7_4,0.9101123595505618,0.9202254790641602,0.9034060767618896,0.9098348994001167,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_7_5,0.9044943820224719,0.9163143058491895,0.8977563592477652,0.9046806181696386,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_8_2,0.8651685393258427,0.8840709266821175,0.8539843107609878,0.8637786446775211,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=1015.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_8_3,0.8707865168539326,0.888959346156556,0.8583393013447919,0.8679636321977942,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_8_4,0.8707865168539326,0.8911862990810359,0.8583393013447919,0.868691085814932,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_8_5,0.8707865168539326,0.8911862990810359,0.8583393013447919,0.868691085814932,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_9_2,0.8314606741573034,0.8494438711156977,0.8155221346913875,0.8248494800218937,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_9_3,0.8426966292134831,0.8567755012517111,0.826821569719636,0.834788563602123,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_9_4,0.848314606741573,0.8719840478564308,0.8315164054003872,0.8416489119258858,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_9_5,0.848314606741573,0.8719840478564308,0.8315164054003872,0.8416489119258858,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_10_2,0.8202247191011236,0.8271164021164021,0.8038828545661919,0.8110022578049983,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_10_3,0.8258426966292135,0.8305129609346477,0.8095325720803163,0.815998329156224,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_10_4,0.8370786516853933,0.8374972926142515,0.8208320071085647,0.8258950668206566,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_10_5,0.8370786516853933,0.8374972926142515,0.8208320071085647,0.8258950668206566,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_11_2,0.8314606741573034,0.8567908346134153,0.8138875626641203,0.8227894783613259,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_11_3,0.8202247191011236,0.8437931311186005,0.8032031643722978,0.8094617137286262,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Total phenols>=1.6 AND Hue>=0.75 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_11_4,0.8314606741573034,0.852147540787092,0.8145025994005463,0.819005660096848,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Total phenols>=1.6 AND Hue>=0.75 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_11_5,0.8314606741573034,0.852147540787092,0.8145025994005463,0.819005660096848,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Total phenols>=1.6 AND Hue>=0.75 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_12_2,0.848314606741573,0.8700803497020299,0.8302216784700671,0.8399796050875746,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.85 AND Color intensity<=4.92 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_12_3,0.8146067415730337,0.8437118289938926,0.7978932919551206,0.808119658119658,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_12_4,0.8146067415730337,0.8437118289938926,0.7978932919551206,0.808119658119658,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_12_5,0.8146067415730337,0.8437118289938926,0.7978932919551206,0.808119658119658,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_13_2,0.8426966292134831,0.8798644659151905,0.8213674703588764,0.8349032701739146,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_13_3,0.8202247191011236,0.8645270123198815,0.7974738733720591,0.8121124021688303,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_13_4,0.8202247191011236,0.8645270123198815,0.7974738733720591,0.8121124021688303,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_13_5,0.8202247191011236,0.8645270123198815,0.7974738733720591,0.8121124021688303,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_14_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_14_3,0.797752808988764,0.8532841859454763,0.7748750033155618,0.7917662368389919,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_14_4,0.797752808988764,0.8532841859454763,0.7748750033155618,0.7917662368389919,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_14_5,0.797752808988764,0.8532841859454763,0.7748750033155618,0.7917662368389919,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 AND Alcalinity of ash>=18.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_15_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_15_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_15_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_15_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_16_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_16_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_16_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_16_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Hue>=0.98 AND Hue>=1.05 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_17_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_17_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_17_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_17_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_18_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_18_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_18_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_18_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_19_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_19_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND OD280/OD315 of diluted wines>=2.26 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_19_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND Color intensity<=4.92 AND Alcohol<=12.84 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_19_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND Color intensity<=4.92 AND Alcohol<=12.84 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_20_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Alcohol<=12.85 AND Color intensity<=4.92 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_20_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Flavanoids>=1.41 AND Magnesium<=103.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_20_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Flavanoids>=1.41 AND Magnesium<=103.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_4_20_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=760.0 AND Flavanoids>=1.41 AND Magnesium<=103.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_7_2,0.8932584269662921,0.9060870331219167,0.8874118060528898,0.8944176539157369,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_7_3,0.9101123595505618,0.9202254790641602,0.9034060767618896,0.9098348994001167,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_7_4,0.9101123595505618,0.9202254790641602,0.9034060767618896,0.9098348994001167,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_7_5,0.9044943820224719,0.9163143058491895,0.8977563592477652,0.9046806181696386,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_8_2,0.8651685393258427,0.8840709266821175,0.8539843107609878,0.8637786446775211,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_8_3,0.8707865168539326,0.888959346156556,0.8583393013447919,0.8679636321977942,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_8_4,0.8707865168539326,0.8911862990810359,0.8583393013447919,0.868691085814932,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_8_5,0.8707865168539326,0.8911862990810359,0.8583393013447919,0.868691085814932,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_9_2,0.8426966292134831,0.8567755012517111,0.826821569719636,0.834788563602123,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_9_3,0.848314606741573,0.8605239385727191,0.8324712872337603,0.839713663243075,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_9_4,0.8539325842696629,0.8756302521008403,0.8371661229145114,0.8465545777713129,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_9_5,0.8539325842696629,0.8756302521008403,0.8371661229145114,0.8465545777713129,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Color intensity<=3.52 AND Nonflavanoid phenols>=0.29 THEN Wine=2 
+IF Proline<=470.0 AND Hue>=0.69 THEN Wine=2 
+IF Alcohol<=12.45 AND Flavanoids>=0.99 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_10_2,0.8202247191011236,0.8239547038327526,0.804837736399565,0.8108075641323723,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcohol>=12.79 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.82 AND Proline<=760.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_10_3,0.8202247191011236,0.8239547038327526,0.804837736399565,0.8108075641323723,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_10_4,0.8314606741573034,0.8311781609195402,0.8161371714278136,0.820686487905031,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_10_5,0.8314606741573034,0.8311781609195402,0.8161371714278136,0.820686487905031,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_11_2,0.8426966292134831,0.8450546376431506,0.8335703960107158,0.8372883267589916,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_11_3,0.8426966292134831,0.8438626126126126,0.8322756690803957,0.8353161556693935,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_11_4,0.848314606741573,0.8484896382156656,0.8379253865945201,0.8403117193439774,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_11_5,0.848314606741573,0.8484896382156656,0.8379253865945201,0.8403117193439774,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_12_2,0.8707865168539326,0.8792735042735043,0.8554100023872045,0.860729810557933,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_12_3,0.8370786516853933,0.8499253034547153,0.824036497705631,0.8288470460420042,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_12_4,0.8370786516853933,0.8499253034547153,0.824036497705631,0.8288470460420042,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_12_5,0.8370786516853933,0.8499253034547153,0.824036497705631,0.8288470460420042,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_13_2,0.848314606741573,0.8771231684079112,0.8270171878730007,0.8379310344827586,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_13_3,0.8370786516853933,0.8677733760925611,0.8144230259144319,0.8251498120740713,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_13_4,0.8370786516853933,0.8677733760925611,0.8144230259144319,0.8251498120740713,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_13_5,0.8370786516853933,0.8677733760925611,0.8144230259144319,0.8251498120740713,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_14_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_14_3,0.797752808988764,0.8532841859454763,0.7748750033155618,0.7917662368389919,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_14_4,0.797752808988764,0.8532841859454763,0.7748750033155618,0.7917662368389919,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_14_5,0.797752808988764,0.8532841859454763,0.7748750033155618,0.7917662368389919,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_15_2,0.7865168539325843,0.847427536231884,0.7658251770510066,0.7842244500139236,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_15_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_15_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_15_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_16_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_16_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_16_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_16_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_17_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_17_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_17_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_17_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_18_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_18_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_18_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_18_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_19_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_19_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_19_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_19_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_20_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_20_3,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_20_4,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_5_20_5,0.7921348314606742,0.8505513612445665,0.7692252858014376,0.7865625106206856,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_7_2,0.8876404494382022,0.9050180957432605,0.8795124797750723,0.8882876382876382,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_7_3,0.8876404494382022,0.8962827845297672,0.8801275165114983,0.8862939958592132,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_7_4,0.8932584269662921,0.9001663371308414,0.8857772340256226,0.8913611267233114,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_7_5,0.8932584269662921,0.9001663371308414,0.8857772340256226,0.8913611267233114,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_8_2,0.8651685393258427,0.8907912809566749,0.8517347019972945,0.8636086462845367,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_8_3,0.8595505617977528,0.8776603644256582,0.844110567358956,0.8526419403102606,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_8_4,0.8595505617977528,0.8793459552495696,0.844110567358956,0.8532955350815025,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_8_5,0.8595505617977528,0.8793459552495696,0.844110567358956,0.8532955350815025,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_9_2,0.848314606741573,0.8605239385727191,0.8324712872337603,0.839713663243075,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.98 AND Proline<=770.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_9_3,0.8539325842696629,0.8832891515475785,0.8339616323174451,0.8457237430667383,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Malic Acid<=2.31 AND Proline<=780.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_9_4,0.8539325842696629,0.8832891515475785,0.8339616323174451,0.8457237430667383,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_9_5,0.8539325842696629,0.8832891515475785,0.8339616323174451,0.8457237430667383,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_10_2,0.8202247191011236,0.8239547038327526,0.804837736399565,0.8108075641323723,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcohol>=12.79 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.82 AND Proline<=760.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_10_3,0.8258426966292135,0.8432973915519021,0.8059882363863027,0.81463166224853,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_10_4,0.8370786516853933,0.8499501495513458,0.8172876714145513,0.824284598778191,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_10_5,0.8370786516853933,0.8499501495513458,0.8172876714145513,0.824284598778191,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_11_2,0.8314606741573034,0.834567114934848,0.8241807246492135,0.8272129350506988,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_11_3,0.8314606741573034,0.8353957870086903,0.819681507121827,0.8241638617814168,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_11_4,0.8370786516853933,0.8396953923269712,0.8253312246359513,0.829134668753501,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_11_5,0.8370786516853933,0.8396953923269712,0.8253312246359513,0.829134668753501,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_12_2,0.8707865168539326,0.8669219072444879,0.8624986737752315,0.8640049015543086,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_12_3,0.8707865168539326,0.8719765061228476,0.8612039468449112,0.8644622429989647,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_12_4,0.8707865168539326,0.8719765061228476,0.8612039468449112,0.8644622429989647,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_12_5,0.8707865168539326,0.8719765061228476,0.8612039468449112,0.8644622429989647,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_13_2,0.8426966292134831,0.8708855799373042,0.8223223521922495,0.83291673386013,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_13_3,0.8314606741573034,0.8642889274468222,0.8074785814699875,0.818002204975385,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_13_4,0.8314606741573034,0.8642889274468222,0.8074785814699875,0.818002204975385,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_13_5,0.8314606741573034,0.8642889274468222,0.8074785814699875,0.818002204975385,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_14_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_14_3,0.7921348314606742,0.8502777777777778,0.7679305588711175,0.7847972835675737,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_14_4,0.7921348314606742,0.8502777777777778,0.7679305588711175,0.7847972835675737,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_14_5,0.7921348314606742,0.8502777777777778,0.7679305588711175,0.7847972835675737,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_15_2,0.7865168539325843,0.847427536231884,0.7658251770510066,0.7842244500139236,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_15_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_15_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_15_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_16_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_16_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_16_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_16_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_17_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_17_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_17_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_17_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_18_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_18_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_18_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_18_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_19_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_19_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_19_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_19_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_20_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_20_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_20_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_6_20_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_7_2,0.8932584269662921,0.9087176303970148,0.8864569242195167,0.8942816442816443,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_7_3,0.898876404494382,0.9045340624287993,0.8927216784700671,0.8974971973472722,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_7_4,0.9044943820224719,0.9085959412638179,0.8983713959841914,0.9025651137452378,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_7_5,0.9044943820224719,0.9085959412638179,0.8983713959841914,0.9025651137452378,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_8_2,0.8651685393258427,0.8907912809566749,0.8517347019972945,0.8636086462845367,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_8_3,0.8595505617977528,0.8793459552495696,0.844110567358956,0.8532955350815025,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_8_4,0.8595505617977528,0.8793459552495696,0.844110567358956,0.8532955350815025,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_8_5,0.8595505617977528,0.8793459552495696,0.844110567358956,0.8532955350815025,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_9_2,0.848314606741573,0.8605239385727191,0.8324712872337603,0.839713663243075,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.98 AND Proline<=770.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_9_3,0.8426966292134831,0.8635878489326765,0.8245719609559429,0.834723373405565,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Malic Acid<=2.31 AND Proline<=780.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_9_4,0.8539325842696629,0.8832891515475785,0.8339616323174451,0.8457237430667383,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_9_5,0.8539325842696629,0.8832891515475785,0.8339616323174451,0.8457237430667383,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_10_2,0.8202247191011236,0.8239547038327526,0.804837736399565,0.8108075641323723,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcohol>=12.79 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.82 AND Proline<=760.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_10_3,0.8370786516853933,0.8442007797270955,0.8243763428025782,0.8309134906231095,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_10_4,0.8595505617977528,0.8641271388347412,0.8450654491923291,0.851179673321234,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_10_5,0.8595505617977528,0.8641271388347412,0.8450654491923291,0.851179673321234,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_11_2,0.8314606741573034,0.834567114934848,0.8241807246492135,0.8272129350506988,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_11_3,0.8089887640449438,0.8164887576652283,0.7938134930107954,0.7958721527872857,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_11_4,0.8146067415730337,0.8211971263519878,0.7994632105249196,0.8007296226808421,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_11_5,0.8146067415730337,0.8211971263519878,0.7994632105249196,0.8007296226808421,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_12_2,0.8707865168539326,0.8669219072444879,0.8624986737752315,0.8640049015543086,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_12_3,0.8595505617977528,0.8690978990686592,0.8476549030529693,0.8548369355991859,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_12_4,0.8595505617977528,0.8690978990686592,0.8476549030529693,0.8548369355991859,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_12_5,0.8595505617977528,0.8690978990686592,0.8476549030529693,0.8548369355991859,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_13_2,0.8426966292134831,0.8708855799373042,0.8223223521922495,0.83291673386013,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_13_3,0.8314606741573034,0.8642889274468222,0.8074785814699875,0.818002204975385,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_13_4,0.8314606741573034,0.8642889274468222,0.8074785814699875,0.818002204975385,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_13_5,0.8314606741573034,0.8642889274468222,0.8074785814699875,0.818002204975385,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_14_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_14_3,0.7921348314606742,0.8502777777777778,0.7679305588711175,0.7847972835675737,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND OD280/OD315 of diluted wines>=2.78 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_14_4,0.7921348314606742,0.8502777777777778,0.7679305588711175,0.7847972835675737,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_14_5,0.7921348314606742,0.8502777777777778,0.7679305588711175,0.7847972835675737,"IF Proline>=990.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Alcohol>=12.93 AND Magnesium>=96.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_15_2,0.7865168539325843,0.847427536231884,0.7658251770510066,0.7842244500139236,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_15_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_15_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_15_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_16_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_16_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_16_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_16_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_17_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_17_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_17_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_17_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_18_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_18_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_18_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_18_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_19_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_19_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_19_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_19_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_20_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_20_3,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_20_4,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_7_20_5,0.7865168539325843,0.847590290943988,0.7622808413569931,0.7796116905375352,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_7_2,0.8932584269662921,0.9087176303970148,0.8864569242195167,0.8942816442816443,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_7_3,0.8876404494382022,0.8926293005240372,0.8810823983448715,0.8857463160311737,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_7_4,0.8932584269662921,0.8966342187757795,0.8867321158589957,0.8907835895413535,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_7_5,0.8932584269662921,0.8966342187757795,0.8867321158589957,0.8907835895413535,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_8_2,0.8651685393258427,0.8907912809566749,0.8517347019972945,0.8636086462845367,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_8_3,0.848314606741573,0.865806081468732,0.8324712872337603,0.8409344022384418,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_8_4,0.848314606741573,0.865806081468732,0.8324712872337603,0.8409344022384418,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_8_5,0.848314606741573,0.865806081468732,0.8324712872337603,0.8409344022384418,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_9_2,0.848314606741573,0.8605239385727191,0.8324712872337603,0.839713663243075,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.98 AND Proline<=770.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_9_3,0.8370786516853933,0.8544512120093515,0.8198771252751916,0.8292866154123423,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Malic Acid<=2.31 AND Proline<=780.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_9_4,0.848314606741573,0.8731856378915203,0.829266796636694,0.8402013290026256,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_9_5,0.848314606741573,0.8731856378915203,0.829266796636694,0.8402013290026256,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_10_2,0.8202247191011236,0.8239547038327526,0.804837736399565,0.8108075641323723,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcohol>=12.79 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.82 AND Proline<=760.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_10_3,0.8146067415730337,0.8219055235048839,0.7965985650248003,0.8018859752736436,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_10_4,0.8370786516853933,0.8409645665543307,0.8172876714145513,0.8217116833346457,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_10_5,0.8370786516853933,0.8409645665543307,0.8172876714145513,0.8217116833346457,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_11_2,0.8314606741573034,0.834567114934848,0.8241807246492135,0.8272129350506988,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_11_3,0.8033707865168539,0.8072755417956655,0.7868690485663511,0.788465030721334,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_11_4,0.8089887640449438,0.8117078715544189,0.7925187660804753,0.7932815458291569,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_11_5,0.8089887640449438,0.8117078715544189,0.7925187660804753,0.7932815458291569,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_12_2,0.8707865168539326,0.8669219072444879,0.8624986737752315,0.8640049015543086,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_12_3,0.8539325842696629,0.8655896312522818,0.840710458608525,0.8489025594288752,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_12_4,0.8539325842696629,0.8655896312522818,0.840710458608525,0.8489025594288752,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_12_5,0.8539325842696629,0.8655896312522818,0.840710458608525,0.8489025594288752,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_13_2,0.8426966292134831,0.8708855799373042,0.8223223521922495,0.83291673386013,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_13_3,0.8202247191011236,0.8495148126727075,0.7958393013447919,0.805339970090928,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_13_4,0.8202247191011236,0.8495148126727075,0.7958393013447919,0.805339970090928,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_13_5,0.8202247191011236,0.8495148126727075,0.7958393013447919,0.805339970090928,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Flavanoids>=2.19 AND Alcohol>=12.85 AND Magnesium>=92.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_14_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_14_3,0.7808988764044944,0.8358333333333333,0.7562912787459218,0.7723516395429822,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_14_4,0.7808988764044944,0.8358333333333333,0.7562912787459218,0.7723516395429822,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_14_5,0.7808988764044944,0.8358333333333333,0.7562912787459218,0.7723516395429822,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_15_2,0.7865168539325843,0.847427536231884,0.7658251770510066,0.7842244500139236,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_15_3,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_15_4,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_15_5,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_16_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_16_3,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_16_4,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_16_5,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_17_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_17_3,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_17_4,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_17_5,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_18_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_18_3,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_18_4,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_18_5,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_19_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_19_3,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_19_4,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_19_5,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_20_2,0.7921348314606742,0.8554409607627429,0.7705200127317577,0.7892069171138938,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_20_3,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_20_4,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_8_20_5,0.7752808988764045,0.8331788497998737,0.7506415612317975,0.7671887129982786,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_7_2,0.898876404494382,0.9124796631256579,0.892106641733641,0.8994968701536005,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_7_3,0.8932584269662921,0.9041666666666668,0.8848223521922495,0.8919410052148319,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_7_4,0.898876404494382,0.9080137051489482,0.8904720697063738,0.8970114942528734,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_7_5,0.898876404494382,0.9080137051489482,0.8904720697063738,0.8970114942528734,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_8_2,0.8707865168539326,0.8941701799718934,0.8573844195114187,0.8687020692662597,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_8_3,0.8707865168539326,0.8947672854452516,0.8557498474841516,0.8663491582513762,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_8_4,0.8707865168539326,0.8947672854452516,0.8557498474841516,0.8663491582513762,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_8_5,0.8707865168539326,0.8947672854452516,0.8557498474841516,0.8663491582513762,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_9_2,0.8539325842696629,0.8643324563178844,0.8381210047478845,0.844611528822055,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcalinity of ash<=18.5 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.98 AND Proline<=770.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_9_3,0.8426966292134831,0.8643213746662023,0.8258666878862629,0.8365428338779438,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Malic Acid<=2.31 AND Proline<=780.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_9_4,0.8539325842696629,0.8835586532876686,0.8352563592477652,0.8475895022108114,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_9_5,0.8539325842696629,0.8835586532876686,0.8352563592477652,0.8475895022108114,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_10_2,0.8202247191011236,0.8239547038327526,0.804837736399565,0.8108075641323723,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Alcohol>=12.79 AND Proline>=880.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.82 AND Proline<=760.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_10_3,0.8146067415730337,0.8259648521543763,0.7978932919551206,0.8043625482321443,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_10_4,0.8426966292134831,0.8507745266781411,0.8232772340256226,0.8291991495393338,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_10_5,0.8426966292134831,0.8507745266781411,0.8232772340256226,0.8291991495393338,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_11_2,0.8314606741573034,0.834567114934848,0.8241807246492135,0.8272129350506988,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_11_3,0.8202247191011236,0.8311726318750025,0.804497891302618,0.8088960040179553,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_11_4,0.8258426966292135,0.8356553147574819,0.8101476088167422,0.8137954881075405,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_11_5,0.8258426966292135,0.8356553147574819,0.8101476088167422,0.8137954881075405,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_12_2,0.8651685393258427,0.8621579595642025,0.8568489562611071,0.8588566827697263,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_12_3,0.8707865168539326,0.8868606701940035,0.8583393013447919,0.8676839765049871,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_12_4,0.8707865168539326,0.8868606701940035,0.8583393013447919,0.8676839765049871,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_12_5,0.8707865168539326,0.8868606701940035,0.8583393013447919,0.8676839765049871,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_13_2,0.848314606741573,0.8742897266056238,0.8279720697063738,0.8377851677036401,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.19 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_13_3,0.848314606741573,0.882375478927203,0.8247675791093075,0.8355718355718356,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_13_4,0.848314606741573,0.882375478927203,0.8247675791093075,0.8355718355718356,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_13_5,0.848314606741573,0.882375478927203,0.8247675791093075,0.8355718355718356,"IF Proline>=760.0 AND Alcohol>=13.39 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.58 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_14_2,0.8033707865168539,0.8606051651264418,0.7818194477600063,0.799685534591195,"IF Proline>=990.0 THEN Wine=1 
+IF Proline>=735.0 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_14_3,0.8089887640449438,0.8674706246134818,0.7852195565104374,0.8024021004413161,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_14_4,0.8089887640449438,0.8674706246134818,0.7852195565104374,0.8024021004413161,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_14_5,0.8089887640449438,0.8674706246134818,0.7852195565104374,0.8024021004413161,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_15_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol>=12.79 AND Flavanoids>=2.41 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_15_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_15_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_15_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_16_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_16_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_16_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_16_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_17_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_17_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_17_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_17_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_18_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_18_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_18_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_18_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_19_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_19_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_19_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_19_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_20_2,0.797752808988764,0.8580072463768116,0.776169730245882,0.7944722918407129,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_20_3,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_20_4,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_9_20_5,0.8033707865168539,0.8647222222222223,0.7795698389963132,0.7972429275921652,"IF Proline>=990.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_7_2,0.9101123595505618,0.9225028058361392,0.9047008036922097,0.9113532374057945,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Proline>=680.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_7_3,0.8876404494382022,0.9031899599382127,0.8804673616084454,0.8885507194330723,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_7_4,0.8932584269662921,0.9067853383098861,0.8861170791225698,0.8936846029300618,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_7_5,0.8932584269662921,0.9067853383098861,0.8861170791225698,0.8936846029300618,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_8_2,0.8820224719101124,0.9038936372269705,0.8699785814699875,0.8809078555798117,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Proline>=680.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Malic Acid>=2.96 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_8_3,0.8932584269662921,0.9104472261653833,0.8861170791225698,0.8949343926499198,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_8_4,0.8932584269662921,0.9104472261653833,0.8861170791225698,0.8949343926499198,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_8_5,0.8932584269662921,0.9104472261653833,0.8861170791225698,0.8949343926499198,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=680.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_9_2,0.8539325842696629,0.8666096853364319,0.8394157316782048,0.8471326760459362,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Proline>=680.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.98 AND Proline<=770.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF Flavanoids<=0.99 AND Nonflavanoid phenols>=0.43 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_9_3,0.8707865168539326,0.8878986428720248,0.8631783639691255,0.8717288717288717,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Malic Acid<=2.31 AND Proline<=780.0 AND Hue>=0.98 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_9_4,0.8764044943820225,0.9007453786523554,0.8656235908861833,0.876926434251275,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_9_5,0.8764044943820225,0.9007453786523554,0.8656235908861833,0.876926434251275,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 AND Magnesium<=110.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_10_2,0.8146067415730337,0.8246280104310477,0.8004827458157608,0.8082871640863667,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Flavanoids>=2.41 AND Proline>=680.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue>=0.82 AND Proline<=760.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_10_3,0.8426966292134831,0.8502378847206433,0.8352049680379832,0.8408535536052314,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_10_4,0.8707865168539326,0.8762253735604834,0.8605889101084853,0.8662579821200511,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_10_5,0.8707865168539326,0.8762253735604834,0.8605889101084853,0.8662579821200511,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Total phenols>=2.36 AND Proline>=680.0 AND Color intensity>=3.52 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Malic Acid<=1.67 AND Hue>=0.906 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_11_2,0.8258426966292135,0.8299553909310006,0.8185310071350892,0.8221873590741929,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_11_3,0.8539325842696629,0.860293385264792,0.8500487387602451,0.8541050903119869,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_11_4,0.8595505617977528,0.8650004966995173,0.8556984562743694,0.859252700161791,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_11_5,0.8595505617977528,0.8650004966995173,0.8556984562743694,0.859252700161791,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 AND Hue>=0.82 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_12_2,0.8707865168539326,0.8722616625842433,0.8624986737752315,0.8658476087943173,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_12_3,0.8764044943820225,0.8914183237893173,0.8665784727195565,0.8750962000962001,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_12_4,0.8764044943820225,0.8914183237893173,0.8665784727195565,0.8750962000962001,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_12_5,0.8764044943820225,0.8914183237893173,0.8665784727195565,0.8750962000962001,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Proline<=885.0 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_13_2,0.848314606741573,0.8771231684079112,0.8270171878730007,0.8379310344827586,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_13_3,0.898876404494382,0.9198079698079699,0.8872675791093075,0.8979034534798248,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_13_4,0.898876404494382,0.9198079698079699,0.8872675791093075,0.8979034534798248,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_13_5,0.898876404494382,0.9198079698079699,0.8872675791093075,0.8979034534798248,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Color intensity<=7.6 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_14_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_14_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_14_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_14_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_15_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_15_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_15_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_15_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_16_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_16_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_16_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_16_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_17_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_17_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_17_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_17_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_18_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_18_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_18_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_18_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_19_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_19_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_19_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_19_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_20_2,0.8089887640449438,0.8632369614512472,0.7874691652741307,0.8048489373076002,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Hue<=0.79 AND Color intensity>=4.0 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_20_3,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_20_4,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "
+unordered_laplace_10_20_5,0.8595505617977528,0.896978021978022,0.8477195565104374,0.8617427181182687,"IF Color intensity>=3.52 AND Proline>=885.0 THEN Wine=1 
+IF Alcohol<=12.79 AND OD280/OD315 of diluted wines>=2.06 THEN Wine=2 
+IF Flavanoids<=1.58 AND Color intensity>=3.85 AND Ash>=2.1 THEN Wine=3 
+IF TRUE THEN Wine=2 "

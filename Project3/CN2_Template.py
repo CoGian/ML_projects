@@ -56,7 +56,7 @@ wineData = Table.from_file(filename='wine.csv', sheet='wine')
 learners = {}
 
 for beam_width in range(3, 11):
-	for min_covered_examples in range(7, 15):
+	for min_covered_examples in range(7, 21):
 		for max_rule_length in range(2, 6):
 			if category == 'unordered':
 				learner = CN2UnorderedLearner()
