@@ -13,21 +13,39 @@
 
 
 # IMPORT LIBRARY HERE (trivial but necessary...)
-import Orange
-
+from Orange.data import Table
+from Orange.classification.rules import CN2Learner, CN2UnorderedLearner, EntropyEvaluator, LaplaceAccuracyEvaluator
+from Orange.evaluation import CrossValidation, CA, Precision, Recall, F1
+import argparse
+from collections import defaultdict
+from tqdm import tqdm
+import pandas as pd
+import os
 # =============================================================================
 
 
+parser = argparse.ArgumentParser()
+parser.add_argument(
+	"--category",
+	"-c",
+	help="category",
+)
+parser.add_argument(
+	"--evaluator",
+	"-e",
+	help="evaluator",
+)
+args = parser.parse_args()
 
+category = args.category
+evaluator = args.evaluator
 # Load 'wine' dataset
 # =============================================================================
 
 
 # ADD COMMAND TO LOAD TRAIN AND TEST DATA HERE
-wineData = 
+wineData = Table.from_file(filename='wine.csv', sheet='wine')
 # =============================================================================
-
-
 
 
 # Define the learner that will be trained with the data.
@@ -36,29 +54,29 @@ wineData =
 
 
 # ADD COMMAND TO DEFINE LEARNER HERE
-learner = 
+learners = {}
 
+for beam_width in range(3, 5):
+	for min_covered_examples in range(7, 8):
+		for max_rule_length in range(2, 3):
+			if category == 'unordered':
+				learner = CN2UnorderedLearner()
+			else:
+				learner = CN2Learner()
 
-# =============================================================================
-
-
-
-
-# At this step we shall configure the parameters of our learner.
-# We can set the evaluator/heuristic ('Entropy', 'Laplace' or 'WRAcc'),
-# 'beam_width' (in the range of 3-10), 'min_covered_examples' (start from 7-8 and make your way up),
-# and 'max_rule_length' (usual values are in the range of 2-5).
-# They are located deep inside the 'learner', within the 'rule_finder' class.
-# Note: for the evaluator, set it using one of the Evaluator classes in classification.rules
-# =============================================================================
-
-
-# ADD COMMANDS TO CONFIGURE THE LEARNER HERE
-
-
-# =============================================================================
-
-
+			if evaluator == 'laplace':
+				learner.rule_finder.quality_evaluator = LaplaceAccuracyEvaluator()
+			else:
+				learner.rule_finder.quality_evaluator = EntropyEvaluator()
+			learner.rule_finder.search_algorithm.beam_width = beam_width
+			learner.rule_finder.general_validator.min_covered_examples = min_covered_examples
+			learner.rule_finder.general_validator.max_rule_length = max_rule_length
+			learners[
+				category + '_' +
+				evaluator + '_' +
+				str(beam_width) + '_' +
+				str(min_covered_examples) + '_' +
+				str(max_rule_length)] = learner
 
 # We want to test our model now. The CrossValidation() function will do all the
 # work in this case, which includes splitting the whole dataset into train and test subsets,
@@ -66,10 +84,10 @@ learner =
 # So, simply initialize the CrossValidation() object from the 'testing' library
 # and call it with input arguments 1) the dataset and 2) the learner.
 # Note that the 'learner' argument should be in array form, i.e. '[learner]'.
-cv = 
-results = 
-
-
+cv = CrossValidation(k=10, random_state=44)
+results = {}
+for name, learner in tqdm(learners.items()):
+	results[name] = cv(data=wineData, learners=[learner])
 
 # As for the required metrics, you can get them using the 'evaluation.scoring' library.
 # The 'average' parameter of each metric is used while measuring scores to perform
@@ -79,30 +97,15 @@ results =
 
 
 # # ADD COMMANDS TO EVALUATE YOUR MODEL HERE (AND PRINT ON CONSOLE)
-print()
-print()
-print()
-print()
+scores = defaultdict(dict)
+for name, res in results.items():
+	scores[name]['acc'] = CA(results=res)[0]
+	scores[name]['prec'] = Precision(results=res, average='macro')[0]
+	scores[name]['rec'] = Recall(results=res, average='macro')[0]
+	scores[name]['f1'] = F1(results=res, average='macro')[0]
+	classifier = learners[name](data=wineData)
+	rules = '\n'.join([str(rule) for rule in classifier.rule_list])
+	scores[name]['rules'] = rules
 
-# =============================================================================
-
-
-
-# Ok, now let's train our learner manually to see how it can classify our data
-# using rules.You just want to feed it some data- nothing else.
-# =============================================================================
-
-
-# ADD COMMAND TO TRAIN THE LEARNER HERE
-classifier = 
-
-
-# =============================================================================
-
-
-
-
-# Now we can print the derived rules. To do that, we need to iterate through
-# the 'rule_list' of our classifier.
-for rule in ___:
-    print()
+scores_df = pd.DataFrame.from_dict(data=scores).transpose()
+scores_df.to_csv(category + '_' + evaluator + '.csv')
