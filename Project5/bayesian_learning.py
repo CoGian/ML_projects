@@ -46,8 +46,8 @@ def bayesian_learning():
 	sns.set(font_scale=1.4)
 	fig_hm = sns.heatmap(df_cm, annot=True, annot_kws={"size": 16}, fmt='g').get_figure()
 	plt.title(
-		"Multinomial NB - Confusion matrix (alpha= {:.3f})[Prec: {:f}, Rec: {:f}, F1: {:f}]".format(
-			clf.best_params_['alpha'], prec, rec, f1), fontsize=20)
+		"Multinomial NB - Confusion matrix (alpha= {:.3f})[Acc: {:f}, Prec: {:f}, Rec: {:f}, F1: {:f}]".format(
+			clf.best_params_['alpha'], acc, prec, rec, f1), fontsize=20)
 	fig_hm.savefig("cm_heatmap.png")
 
 
