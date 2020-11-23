@@ -29,10 +29,12 @@ def bayesian_learning():
 	print("Best estimator: ", clf.best_estimator_)
 
 	pred = clf.predict(test_vectors)
+	acc = metrics.accuracy_score(newsgroups_test.target, pred)
 	prec = metrics.precision_score(newsgroups_test.target, pred, average='macro')
 	rec = metrics.recall_score(newsgroups_test.target, pred, average='macro')
 	f1 = metrics.f1_score(newsgroups_test.target, pred, average='macro')
 
+	print("acc: ", acc)
 	print("prec: ", prec)
 	print("rec: ", rec)
 	print("F1: ", f1)
