@@ -11,19 +11,19 @@ import pandas as pd
 
 def bayesian_learning():
 	newsgroups_train = datasets.fetch_20newsgroups(
-		subset='train', random_state=44, remove=('headers', 'footers', 'quotes'))
+		subset='train', random_state=4, remove=('headers', 'footers', 'quotes'))
 
 	newsgroups_test = datasets.fetch_20newsgroups(
-		subset='test', random_state=44, remove=('headers', 'footers', 'quotes'))
+		subset='test', random_state=4, remove=('headers', 'footers', 'quotes'))
 
-	vectorizer = TfidfVectorizer()
+	vectorizer = TfidfVectorizer(stop_words='english', lowercase=True)
 
 	train_vectors = vectorizer.fit_transform(newsgroups_train.data)
 	test_vectors = vectorizer.transform(newsgroups_test.data)
 
 	mnb = MultinomialNB()
 	parameters = {'alpha': [.001, .004, .01, .04, .1, .4, 1, 4, 10]}
-	clf = GridSearchCV(mnb, parameters, verbose=2, cv=10)
+	clf = GridSearchCV(mnb, parameters, verbose=2, cv=10, n_jobs=-1)
 	clf.fit(train_vectors, newsgroups_train.target)
 
 	print("Best estimator: ", clf.best_estimator_)
@@ -32,7 +32,6 @@ def bayesian_learning():
 	prec = metrics.precision_score(newsgroups_test.target, pred, average='macro')
 	rec = metrics.recall_score(newsgroups_test.target, pred, average='macro')
 	f1 = metrics.f1_score(newsgroups_test.target, pred, average='macro')
-
 
 	print("prec: ", prec)
 	print("rec: ", rec)
