@@ -1,6 +1,7 @@
 from scipy.stats import friedmanchisquare, rankdata
 import pandas as pd
 import numpy as np
+
 algo_perf_df = pd.read_csv("algo_performance.csv")
 stat, p = friedmanchisquare(algo_perf_df['C4.5'],
                             algo_perf_df['1-NN'],
