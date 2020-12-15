@@ -78,4 +78,6 @@ plt.plot([fpr[1]], [tpr[1]], marker='o', markersize=3, color="blue", label="Simp
 plt.plot([fpr_pca[1]], [tpr_pca[1]], marker='o', markersize=3, color="red", label="Model using pca")
 plt.plot([fpr_best4[1]], [tpr_best4[1]], marker='o', markersize=3, color="green", label="Model using best 4 features")
 plt.legend()
+plt.xlabel("FPR")
+plt.ylabel("TPR")
 plt.show()
