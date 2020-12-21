@@ -14,6 +14,7 @@ from keras.applications.imagenet_utils import preprocess_input
 from keras.applications import VGG16, ResNet50
 import numpy as np
 import os
+import pandas as pd
 
 class ImageNetModel:
   def __init__(self, model_name):
@@ -23,14 +24,18 @@ class ImageNetModel:
     elif model_name == "ResNet50":
       self.model = ResNet50(weights="imagenet")
 
-  def predict_image(self, image):
+  def predict_image(self, image, image_name):
     # classify the image
     print("[INFO] classifying image...")
     preds = self.model.predict(image)
     P = decode_predictions(preds)
-    # loop over the predictions and display the rank-1 predictions 
+    # loop over the predictions and display the rank-1 predictions
+    res = {}
     for (i, (imagenetID, label, prob)) in enumerate(P[0]):
       print("{}. {}: {:.2f}%".format(i + 1, label, prob * 100))
+      res[label] = prob
+
+    pd.DataFrame([res]).T.to_csv(image_name.split('.')[0] + ".csv", header=False)
 
 def load_and_ppreprocessing_image(image_data_path, model_name):
   print("[INFO] loading and preprocessing image...")
@@ -58,7 +63,7 @@ images = {image:load_and_ppreprocessing_image(os.path.join(path, image), model_n
 
 for image_name, image in images.items(): 
   print(image_name)
-  clf.predict_image(image)
+  clf.predict_image(image, image_name)
 
 """## Fred"""
 
@@ -68,7 +73,7 @@ images = {image:load_and_ppreprocessing_image(os.path.join(path, image), model_n
 
 for image_name, image in images.items(): 
   print(image_name)
-  clf.predict_image(image)
+  clf.predict_image(image, image_name)
 
 """## Ermis"""
 
@@ -78,7 +83,7 @@ images = {image:load_and_ppreprocessing_image(os.path.join(path, image), model_n
 
 for image_name, image in images.items(): 
   print(image_name)
-  clf.predict_image(image)
+  clf.predict_image(image, image_name)
 
 """# ResNet50"""
 
@@ -94,7 +99,7 @@ images = {image:load_and_ppreprocessing_image(os.path.join(path, image), model_n
 
 for image_name, image in images.items():
   print(image_name)
-  clf.predict_image(image)
+  clf.predict_image(image, image_name)
 
 """## Fred"""
 
@@ -104,7 +109,7 @@ images = {image:load_and_ppreprocessing_image(os.path.join(path, image), model_n
 
 for image_name, image in images.items():
   print(image_name)
-  clf.predict_image(image)
+  clf.predict_image(image, image_name)
 
 """## Ermis"""
 
@@ -114,5 +119,5 @@ images = {image:load_and_ppreprocessing_image(os.path.join(path, image), model_n
 
 for image_name, image in images.items():
   print(image_name)
-  clf.predict_image(image)
+  clf.predict_image(image, image_name)
 
