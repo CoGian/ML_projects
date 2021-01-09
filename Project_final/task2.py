@@ -73,7 +73,7 @@ print("Training...")
 if algorithm == "svr":
     reg = LinearSVR(C=10, random_state=42, verbose=1, max_iter=10000)
 elif algorithm == "tree":
-    reg = DecisionTreeRegressor(random_state=42, criterion="poisson")
+    reg = DecisionTreeRegressor(random_state=42, criterion="mse")
 elif algorithm == "knn":
     reg = KNeighborsRegressor(n_neighbors=5)
 elif algorithm == "forest":
