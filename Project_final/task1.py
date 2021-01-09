@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_curve, auc
+from sklearn.metrics import accuracy_score
 from sklearn.cluster import KMeans, Birch
 from sklearn.mixture import GaussianMixture
 import numpy as np
@@ -48,9 +48,9 @@ X_test = scaler.transform(X_test)
 if algorithm == "kmeans":
     clf = KMeans(n_clusters=2, random_state=42, verbose=0)
 elif algorithm == "birch":
-    clf = Birch(n_clusters=2, threshold=0.3)
+    clf = Birch(n_clusters=2, threshold=0.6)
 elif algorithm == "gausian":
-    clf = GaussianMixture(n_components=2, random_state=42, covariance_type="tied")
+    clf = GaussianMixture(n_components=2, random_state=42, covariance_type="spherical")
 else:
     print("wrong algorithm")
     exit(0)
