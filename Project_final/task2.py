@@ -1,11 +1,13 @@
 import pandas as pd
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error, mean_squared_error
 from sklearn.impute import SimpleImputer
 from sklearn.svm import LinearSVR
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.neighbors import KNeighborsRegressor
+from sklearn.ensemble import RandomForestRegressor
+
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -61,7 +63,7 @@ X_test = imputer.transform(X_test)
 
 print("Normalizing...")
 # Normalize feature values using MinMaxScaler
-scaler = StandardScaler()
+scaler = MinMaxScaler(feature_range=(-1, 1))
 scaler.fit(X_train)
 X_train = scaler.transform(X_train)
 X_test = scaler.transform(X_test)
@@ -71,9 +73,11 @@ print("Training...")
 if algorithm == "svr":
     reg = LinearSVR(C=10, random_state=42, verbose=1, max_iter=10000)
 elif algorithm == "tree":
-    reg = DecisionTreeRegressor(random_state=42, criterion="mse")
+    reg = DecisionTreeRegressor(random_state=42, criterion="poisson")
 elif algorithm == "knn":
     reg = KNeighborsRegressor(n_neighbors=5)
+elif algorithm == "forest":
+    reg = RandomForestRegressor(n_estimators=100, criterion="mse", n_jobs=12)
 
 reg.fit(X_train, y_train)
 
