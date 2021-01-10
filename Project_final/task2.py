@@ -7,7 +7,7 @@ from sklearn.svm import LinearSVR
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.ensemble import RandomForestRegressor
-
+import matplotlib.pyplot as plt
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -27,11 +27,23 @@ dataset = pd.read_csv("Task 2/fuel_emissions.csv")
 # take only rows that are not nan on column fuel_cost_12000_miles
 dataset = dataset[dataset["fuel_cost_12000_miles"].notna()]
 
-
 # print(dataset.info())
-# print("Unique values per column")
+#
+# count_values = dict()
 # for column_name in dataset.columns:
-#     print("{0} : {1}".format(column_name, len(dataset[column_name].unique())))
+#     count_values[column_name] = len(dataset[dataset[column_name].notna()])
+#
+# count_values_df = pd.DataFrame.from_dict(count_values, orient='index').rename(columns={0: "values"})
+# count_values_df.plot(kind="bar", y="values")
+#
+#
+# unique_values = dict()
+# for column_name in dataset.columns:
+#     unique_values[column_name] = len(dataset[column_name].unique())
+#
+# unique_values_df = pd.DataFrame.from_dict(unique_values, orient='index').rename(columns={0: "unique values"})
+# unique_values_df.plot(kind="bar", y="unique values")
+# plt.show()
 
 
 keep_columns = [
